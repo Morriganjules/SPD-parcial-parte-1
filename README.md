@@ -7,7 +7,7 @@
 # Proyecto contador
 
 
-![Proyecto Parte 1](proyecto parte 1.jpeg)
+![Proyecto Parte 1](proyecto parte 1.jpg)
 
 ## Descripcion
 
